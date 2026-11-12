@@ -1,0 +1,9 @@
+# Chaves privadas SSH e credenciais locais (NUNCA subir para o GitHub)
+*.pem
+*.ppk
+.env
+credentials.txt
+
+# Arquivos de sistema
+.DS_Store
+Thumbs.db
