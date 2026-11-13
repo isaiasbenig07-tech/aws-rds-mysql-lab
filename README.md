@@ -78,3 +78,5 @@ Dentro do prompt `MySQL [(none)]>`, execute os scripts na ordem:
 * **Network Security:** Configuração de regras stateful em Security Groups (princípio do menor privilégio).
 * **Linux Administration:** Acesso remoto seguro via chaves assimétricas (`.pem`/`.ppk`) e gerenciamento de pacotes via `yum`.
 * **SQL & Data Modeling:** Definição de chaves primárias/estrangeiras (`PRIMARY KEY`, `FOREIGN KEY`) e consultas relacionais (`INNER JOIN`).
+
+Laboratório prático de banco de dados na AWS.
