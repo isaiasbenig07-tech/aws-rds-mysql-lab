@@ -80,3 +80,4 @@ Dentro do prompt `MySQL [(none)]>`, execute os scripts na ordem:
 * **SQL & Data Modeling:** Definição de chaves primárias/estrangeiras (`PRIMARY KEY`, `FOREIGN KEY`) e consultas relacionais (`INNER JOIN`).
 
 
+
